@@ -8,13 +8,7 @@ http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <version>2.5-SNAPSHOT</version>
  
     <distributionManagement>
-      <snapshotRepository>
-	               <id>nexus</id>
-	              <name>Snapshot</name>
-	             <url>http://infytraining.centralindia.cloudapp.azure.com:8081/repository/sampless/</url>
-
-	               </snapshotRepository>
-
+      
  <repository>
 	 <id>nexus</id>
 	  <name>Releases</name>
