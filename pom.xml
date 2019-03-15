@@ -6,4 +6,8 @@ http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <groupId>com.afi</groupId>
   <artifactId>MYSELF</artifactId>
   <version>2.5-SNAPSHOT</version>
+ <repository>
+    <url>http://infytraining.centralindia.cloudapp.azure.com:8081/repository/samplere/</url>
+ </repository>
+ 
 </project>
