@@ -12,12 +12,12 @@ http://maven.apache.org/xsd/maven-4.0.0.xsd">
  <repository>
 	 <id>nexus</id>
 	  <name>Releases</name>
-    <url>http://infytraining.centralindia.cloudapp.azure.com:8081/repository/samplere/</url>
+    <url>http://vmmain.southindia.cloudapp.azure.com:8081/repository/maven-releases/</url>
  </repository>
 	    <snapshotRepository>
 	              <id>nexus</id>
 	              <name>Snapshot</name>
-	             <url>http://infytraining.centralindia.cloudapp.azure.com:8081/repository/sampless/</url>
+	             <url>http://vmmain.southindia.cloudapp.azure.com:8081/repository/maven-snapshots/</url>
 
 	               </snapshotRepository>
         </distributionManagement>
